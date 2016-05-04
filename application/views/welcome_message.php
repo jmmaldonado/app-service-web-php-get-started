@@ -69,7 +69,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <div id="container">
 	<h1>Congrats! You just created your first PHP web app in Azure App Service (Powered by CodeIgniter)!</h1>
-
+	<h2>Prueba</h2>
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
